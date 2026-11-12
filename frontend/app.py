@@ -81,7 +81,7 @@ response_type = st.radio(
 
 query = st.text_input(
     "Your question",
-    placeholder="e.g., What is the waiting period for hospitalization?"
+    placeholder="e.g., Can a guest bring a dog to ASH-MIA Brickell, and what is the fee?"
 )
 
 
